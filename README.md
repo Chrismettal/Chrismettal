@@ -1,3 +1,7 @@
+<table>
+<tr VALIGN=TOP>
+<td style width=66%>
+
 # Chrismettal - Binary-6
 
 Full stack engineer working on software, electronics and mechanical design for 3D printing. Horrible at UX.
@@ -18,31 +22,20 @@ Free and open source software/hardware advocate. Arch User.
 - Twitter: [**@Chrismettal**](https://twitter.com/Chrismettal)
 - Email:   [**Chrismettal@binary-6.de**](mailto:Chrismettal@binary-6.de)
 
-## Pinned projects
 
-<table>
-<tr>
-<td style="width:50%">
+</td>
+<td>
+
+## Pinned projects
 
 ## [EleLab_V2](https://gitlab.com/Chrismettal/EleLab_v2)
 [![EleLab_V2](https://gitlab.com/Chrismettal/EleLab_v2/-/raw/master/img/CompleteNice.jpg)](https://gitlab.com/Chrismettal/EleLab_v2)
 
-</td>
-<td>
-
 ## [ESP-Hiro](https://gitlab.com/Chrismettal/ESP-Hiro)
 [![ESP-Hiro](https://gitlab.com/Chrismettal/ESP-Hiro/-/raw/master/img/Nice.png)](https://gitlab.com/Chrismettal/ESP-Hiro)
 
-</td>
-</tr>
-<tr>
-<td style="width:50%">
-
 ## [LasS0](https://gitlab.com/Chrismettal/LasS0)
 [![LasS0](https://gitlab.com/Chrismettal/LasS0/-/raw/master/img/Board.jpg)](https://gitlab.com/Chrismettal/LasS0)
-
-</td>
-<td>
 
 ## [Threedeploy](https://gitlab.com/Chrismettal/EleLab_v2)
 [![Threedeploy](https://gitlab.com/Chrismettal/threedeploy/-/raw/master/img/Banner.png)](https://gitlab.com/Chrismettal/threedeploy)
