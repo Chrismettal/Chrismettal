@@ -22,13 +22,13 @@ Free and open source software/hardware advocate. Arch User.
 
 <table>
 <tr>
-<td>
+<td style="width:50%">
 
 ## [EleLab_V2](https://gitlab.com/Chrismettal/EleLab_v2)
 [![EleLab_V2](https://gitlab.com/Chrismettal/EleLab_v2/-/raw/master/img/CompleteNice.jpg)](https://gitlab.com/Chrismettal/EleLab_v2)
 
 </td>
-<td>
+<td style="width:50%">
 
 ## [ESP-Hiro](https://gitlab.com/Chrismettal/ESP-Hiro)
 [![ESP-Hiro](https://gitlab.com/Chrismettal/ESP-Hiro/-/raw/master/img/Nice.png)](https://gitlab.com/Chrismettal/ESP-Hiro)
@@ -36,13 +36,13 @@ Free and open source software/hardware advocate. Arch User.
 </td>
 </tr>
 <tr>
-<td>
+<td style="width:50%">
 
 ## [LasS0](https://gitlab.com/Chrismettal/LasS0)
 [![LasS0](https://gitlab.com/Chrismettal/LasS0/-/raw/master/img/Board.jpg)](https://gitlab.com/Chrismettal/LasS0)
 
 </td>
-<td>
+<td style="width:50%">
 
 ## [Threedeploy](https://gitlab.com/Chrismettal/EleLab_v2)
 [![Threedeploy](https://gitlab.com/Chrismettal/threedeploy/-/raw/master/img/Banner.png)](https://gitlab.com/Chrismettal/threedeploy)
