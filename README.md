@@ -26,8 +26,6 @@ Free and open source software/hardware advocate. Arch User.
 </td>
 <td>
 
-## Pinned projects
-
 ## [EleLab_V2](https://gitlab.com/Chrismettal/EleLab_v2)
 [![EleLab_V2](https://gitlab.com/Chrismettal/EleLab_v2/-/raw/master/img/CompleteNice.jpg)](https://gitlab.com/Chrismettal/EleLab_v2)
 
@@ -36,9 +34,6 @@ Free and open source software/hardware advocate. Arch User.
 
 ## [LasS0](https://gitlab.com/Chrismettal/LasS0)
 [![LasS0](https://gitlab.com/Chrismettal/LasS0/-/raw/master/img/Board.jpg)](https://gitlab.com/Chrismettal/LasS0)
-
-## [Threedeploy](https://gitlab.com/Chrismettal/EleLab_v2)
-[![Threedeploy](https://gitlab.com/Chrismettal/threedeploy/-/raw/master/img/Banner.png)](https://gitlab.com/Chrismettal/threedeploy)
 
 </td>
 </tr>
