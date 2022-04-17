@@ -8,11 +8,12 @@ Full stack engineer working on software, electronics and mechanical design for 3
 
 Free and open source software/hardware advocate. Arch User.
 
+
 ## Links
 
 - [**GitLab**](https://gitlab.com/chrismettal) -  hosts the vast majority of my projects.
 - [**Github**](https://github.com/chrismettal) - kept only to work on forks of Github hosted projects.
-- [**PrusaPrinters**](https://www.prusaprinters.org/social/13425-chrismettal/about) - hosts my 3D printable projects that don't use source control.
+- [**Printables**](https://www.printables.com/social/13425-chrismettal-binary-6/about) - hosts my 3D printable projects that don't use source control.
 - [**Tindie Shop**](https://www.tindie.com/stores/binary-6/) - where some parts of my projects are sold.
 
 
