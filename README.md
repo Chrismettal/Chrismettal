@@ -31,28 +31,20 @@ If you like my work please consider supporting my caffeine addiction!
 <tr VALIGN=TOP>
 <td style width=50%>
 
-**[Paypal](https://www.paypal.com/donate/?hosted_button_id=7VMKT7P7PL86J)**
-
-[![Paypal](img/PP_Dono.png)](https://www.paypal.com/donate/?hosted_button_id=7VMKT7P7PL86J)
+[![Paypal](https://gitlab.com/Chrismettal/Chrismettal/-/blob/main/img/PP_Dono.png)](https://www.paypal.com/donate/?hosted_button_id=7VMKT7P7PL86J)
 
 ---
 
-**0xf265a43BF4b8Aa90b82919a81438872d092f30BF**
-
-![0xf265a43BF4b8Aa90b82919a81438872d092f30BF](img/ETH_Dono.png) 
+![0xf265a43BF4b8Aa90b82919a81438872d092f30BF](https://gitlab.com/Chrismettal/Chrismettal/-/blob/main/img/ETH_Dono.png) 
 
 </td>
 <td>
 
-**bc1q33f56ufemtpdrwleemlmx4nc0tgkufc778yfqf**
-
-![bc1q33f56ufemtpdrwleemlmx4nc0tgkufc778yfqf](img/BTC_Dono.png)
+![bc1q33f56ufemtpdrwleemlmx4nc0tgkufc778yfqf](https://gitlab.com/Chrismettal/Chrismettal/-/blob/main/img/BTC_Dono.png)
 
 ---
 
-**DAKXGpR8yqgxrnZpVoxHBLbLbQnuwXcYJt**
-
-![DAKXGpR8yqgxrnZpVoxHBLbLbQnuwXcYJt](img/DOGE_Dono.png)
+![DAKXGpR8yqgxrnZpVoxHBLbLbQnuwXcYJt](https://gitlab.com/Chrismettal/Chrismettal/-/blob/main/img/DOGE_Dono.png)
 
 </td>
 </tr>
