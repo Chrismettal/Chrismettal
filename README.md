@@ -4,7 +4,7 @@
 
 # Chrismettal - Binary-6
 
-Full stack engineer working on software, electronics and mechanical design for 3D printing. Horrible at UX.
+Full stack engineer working on software, electronics and mechanical design for 3D printing.
 
 Free and open source software/hardware advocate. Arch User.
 
@@ -32,6 +32,9 @@ If you like my work please consider supporting my caffeine addiction!
 - BTC: `bc1q33f56ufemtpdrwleemlmx4nc0tgkufc778yfqf`
 - ETH: `0xf265a43BF4b8Aa90b82919a81438872d092f30BF`
 - DOGE: `DAKXGpR8yqgxrnZpVoxHBLbLbQnuwXcYJt`
+
+<details>
+<summary>Donation QR Codes</summary>
 
 <table>
 <tr VALIGN=TOP>
@@ -78,3 +81,5 @@ If you like my work please consider supporting my caffeine addiction!
 </td>
 </tr>
 </table>
+
+</details>
