@@ -73,8 +73,8 @@ If you like my work please consider supporting my caffeine addiction!
 ## [ESP-Hiro](https://github.com/Chrismettal/ESP-Hiro)
 [![ESP-Hiro](https://raw.githubusercontent.com/Chrismettal/ESP-Hiro/master/img/Nice.png)](https://github.com/Chrismettal/ESP-Hiro)
 
-## [LasS0](https://gitlab.com/Chrismettal/LasS0)
-[![LasS0](https://gitlab.com/Chrismettal/LasS0/-/raw/master/img/Board.jpg)](https://gitlab.com/Chrismettal/LasS0)
+## [LasS0](https://github.com/Chrismettal/LasS0)
+[![LasS0](https://raw.githubusercontent.com/Chrismettal/LasS0/master/img/Board.jpg)](https://github.com/Chrismettal/LasS0)
 
 </td>
 </tr>
