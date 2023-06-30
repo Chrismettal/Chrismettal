@@ -11,9 +11,8 @@ Free and open source software/hardware advocate. Arch User.
 ## Links
 
 - [**Github**](https://github.com/chrismettal) - where I host most of my projects
-- [**GitLab**](https://gitlab.com/chrismettal) - contains mostly archives by now
 - [**Printables**](https://www.printables.com/social/13425-chrismettal-binary-6/about) - hosts my 3D printable projects that don't use source control.
-- [**Tindie Shop**](https://www.tindie.com/stores/binary-6/) - where some parts of my projects are sold.
+- [**Tindie**](https://www.tindie.com/stores/binary-6/) - where some parts of my projects are sold.
 
 ## Socials
  
