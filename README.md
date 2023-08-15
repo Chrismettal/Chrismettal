@@ -16,7 +16,7 @@ Free and open source software/hardware advocate. Arch User.
 
 ## Socials
  
-- Discord: **Chrismettal - Binary-6#0672**
+- Discord: **Chrismettal - Binary-6 | @chrismettal**
 - Twitter: [**@Chrismettal**](https://twitter.com/Chrismettal)
 - Mastodon: [**@chrismettal@fosstodon.org**](https://fosstodon.org/@chrismettal)
 - Email:   [**Chrismettal@binary-6.de**](mailto:Chrismettal@binary-6.de)
@@ -66,14 +66,14 @@ If you like my work please consider supporting my caffeine addiction!
 </td>
 <td>
 
+## [Flipper Zero Backpacks](https://github.com/Chrismettal/flipper-zero-backpacks)
+[![LasS0](https://raw.githubusercontent.com/Chrismettal/flipper-zero-backpacks/master/img/NiceBack.jpg)](https://github.com/Chrismettal/flipper-zero-backpacks)
+
+## [PedalDev](https://github.com/Chrismettal/pedaldev)
+[![ESP-Hiro](https://raw.githubusercontent.com/Chrismettal/PedalDev/main/img/YOU_WHAT/nice.jpg)](https://github.com/Chrismettal/pedaldev)
+
 ## [EleLab_V2](https://github.com/Chrismettal/EleLab_v2)
 [![EleLab_V2](https://raw.githubusercontent.com/chrismettal/EleLab_v2/master/img/CompleteNice.jpg)](https://github.com/Chrismettal/EleLab_v2)
-
-## [ESP-Hiro](https://github.com/Chrismettal/ESP-Hiro)
-[![ESP-Hiro](https://raw.githubusercontent.com/Chrismettal/ESP-Hiro/master/img/Nice.png)](https://github.com/Chrismettal/ESP-Hiro)
-
-## [LasS0](https://github.com/Chrismettal/LasS0)
-[![LasS0](https://raw.githubusercontent.com/Chrismettal/LasS0/master/img/Board.jpg)](https://github.com/Chrismettal/LasS0)
 
 </td>
 </tr>
