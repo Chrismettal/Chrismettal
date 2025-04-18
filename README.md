@@ -13,12 +13,11 @@ Free and open source software/hardware advocate. Arch User.
 - [**Github**](https://github.com/chrismettal) - where I host most of my projects
 - [**Printables**](https://www.printables.com/social/13425-chrismettal-binary-6/about) - hosts my 3D printable projects that don't use source control.
 - [**Tindie**](https://www.tindie.com/stores/binary-6/) - where some parts of my projects are sold.
+- [**Elecrow**](https://www.elecrow.com/store/Binary-6) - where other parts of my projects are sold.
 
 ## Socials
  
-- Discord: **Chrismettal - Binary-6 | @chrismettal**
 - Twitter: [**@Chrismettal**](https://twitter.com/Chrismettal)
-- Mastodon: [**@chrismettal@fosstodon.org**](https://fosstodon.org/@chrismettal)
 - Email:   [**Chrismettal@binary-6.de**](mailto:Chrismettal@binary-6.de)
 
 ## Donations
