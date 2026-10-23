@@ -20,48 +20,6 @@ Free and open source software/hardware advocate. Arch User.
 - Twitter: [**@Chrismettal**](https://twitter.com/Chrismettal)
 - Email:   [**Chrismettal@binary-6.de**](mailto:Chrismettal@binary-6.de)
 
-## Donations
-
-If you like my work please consider supporting my caffeine addiction!
-
-- [Paypal](https://www.paypal.com/donate/?hosted_button_id=7VMKT7P7PL86J)
-- BTC: `bc1q33f56ufemtpdrwleemlmx4nc0tgkufc778yfqf`
-- ETH: `0xf265a43BF4b8Aa90b82919a81438872d092f30BF`
-- DOGE: `DAKXGpR8yqgxrnZpVoxHBLbLbQnuwXcYJt`
-
-<details>
-<summary>Donation QR Codes</summary>
-
-<table>
-<tr VALIGN=TOP>
-<td style width=50%>
-
-[![Paypal](https://raw.githubusercontent.com/Chrismettal/Chrismettal/main/img/PP_Dono.png)](https://www.paypal.com/donate/?hosted_button_id=7VMKT7P7PL86J)
-
-</td>
-<td>
-
-![bc1q33f56ufemtpdrwleemlmx4nc0tgkufc778yfqf](https://raw.githubusercontent.com/Chrismettal/Chrismettal/main/img/BTC_Dono.png)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr VALIGN=TOP>
-<td style width=50%>
-
-![0xf265a43BF4b8Aa90b82919a81438872d092f30BF](https://raw.githubusercontent.com/Chrismettal/Chrismettal/main/img/ETH_Dono.png) 
-
-</td>
-<td>
-
-![DAKXGpR8yqgxrnZpVoxHBLbLbQnuwXcYJt](https://raw.githubusercontent.com/Chrismettal/Chrismettal/main/img/DOGE_Dono.png)
-
-</td>
-</tr>
-</table>
-
 </td>
 <td>
 
